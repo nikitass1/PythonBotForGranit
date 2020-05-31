@@ -4,7 +4,7 @@ import time
 import requests
 from bs4 import BeautifulSoup
 
-bot = telebot.TeleBot('1246268273:AAHGamYRYSAfMNRi1xXEZRSND7TIMMqe13M')
+bot = telebot.TeleBot('TOKEN')
 
 
 
